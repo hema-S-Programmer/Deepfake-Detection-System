@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+vgg19_env/
+venv/
+.env
+
+# Dataset
+Real vs Fake Faces/
+
+# Uploaded images
+uploads/*
+!uploads/.gitkeep__pycache__/
+*.pyc
+vgg19_env/
+venv/
+.env
+uploads/*
+!uploads/.gitkeep
